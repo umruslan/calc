@@ -1,2 +1,1 @@
-"file2 content b" 
-content e calc.cpp 
+replace2 calc.cpp 
