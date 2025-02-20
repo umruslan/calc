@@ -1,1 +1,1 @@
-replace2 calc.cpp 
+replace2 calc.cpp
